@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattiaAndreani
 - 👀 I’m interested in electronics, telecommunications and programming
-- 🌱 I’m currently learning vehicular communications (LTE-V2X, NR-V2X)
+- 🌱 I’m currently learning vehicular communications (LTE-V2X, NR-V2X) and Collective Perception Messages (CPMs) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
